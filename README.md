@@ -13,7 +13,7 @@ The purpose of this lab is to demonstrate security reasoning and incident handli
 
 ## Environment
 - Domain Controller: Windows Server
-- Client: Windows 10/11 (domain-joined)
+- Client: Windows 10 (domain-joined)
 - Domain: labiam.local
 - Hypervisor: VirtualBox
 - Tools:
@@ -133,7 +133,7 @@ El objetivo del laboratorio es demostrar criterio y toma de decisiones ante un i
 
 ## Entorno
 - Controlador de Dominio: Windows Server
-- Cliente: Windows 10/11 unido al dominio
+- Cliente: Windows 10 unido al dominio
 - Dominio: labiam.local
 - Hipervisor: VirtualBox
 - Herramientas:
