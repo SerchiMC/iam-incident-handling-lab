@@ -28,7 +28,7 @@ Before the incident, the domain user was able to authenticate successfully, esta
 
 ![Domain login screen](images/01_Inicio_de_sesion_dominio.png)
 
-![Successful domain login](images/04_login_correcto.png)
+![Successful domain login](images/04_Acceso_cliente_a_dominio.png)
 
 ---
 
