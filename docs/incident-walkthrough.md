@@ -70,7 +70,7 @@ Antes del incidente, el usuario de dominio podía iniciar sesión correctamente,
 
 ![Pantalla de inicio de sesión en dominio](images/01_Inicio_de_sesion_dominio.png)
 
-![Inicio de sesión correcto](images/images/04_login_correcto.png)
+![Inicio de sesión correcto](images/04_Acceso_cliente_a_dominio.png)
 
 ---
 
