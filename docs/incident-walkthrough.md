@@ -10,7 +10,7 @@ This document provides a step-by-step walkthrough of the IAM lab, showing the en
 
 A dedicated Organizational Unit and a standard domain user were created to simulate a controlled IAM environment.
 
-![User and OU creation](images/02_creacion_usuario_ou.png)
+![User and OU creation](images/02_Creacion_usuario_OU.png)
 
 ---
 
@@ -18,7 +18,7 @@ A dedicated Organizational Unit and a standard domain user were created to simul
 
 The client machine was successfully joined to the Active Directory domain.
 
-![Client joined to domain](images/03_cliente_en_dominio.png)
+![Client joined to domain](images/03_Cliente_en_dominio.png)
 
 ---
 
